@@ -3,7 +3,9 @@
   2. One thing that is still confusing: Why React requires us to use 
      specific names like 'htmlFor' instead of 'for'.
   3. One mistake I made and fixed: I forgot to export the App at first, 
-     which caused the screen to go blank.const courseTitle = "React dev Lab";*/
+     which caused the screen to go blank.*/
+     
+ const courseTitle = "React dev Lab";
  function App() {
   const studentName = "Sarra";
   const student= {
